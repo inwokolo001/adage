@@ -1,4 +1,4 @@
-This folder is for explaining password security to users.
+This folder is for a simple password security chatbot or help tool.
 
-You can build a simple chatbot, FAQ system, or text-based helper.
-No hosting required.
+Start by editing chatbot.py.
+Focus on explaining ideas clearly rather than being technical.
