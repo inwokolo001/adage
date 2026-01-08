@@ -18,16 +18,15 @@ Note: You don’t need to understand the whole repo. Just the parts that you're 
 Repository layout:
 
 adage/
-  README.md  
-  CONTRIBUTING.md  
-  docs/  
-  python-cli/  
-  java-cli/  
-  web-ui/  
-  api-service/  
-  chatbot-helpdesk/  
-  cyber-hardening/  
-  ios-xcode/  
+  README.md
+  CONTRIBUTING.md
+  docs/
+  python-script/
+  java-script/
+  web-ui/
+  chatbot/
+  security/
+  ios-app/ 
 
 You’ll mainly work inside your own section folder.
 
